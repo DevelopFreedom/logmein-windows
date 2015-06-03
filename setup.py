@@ -25,6 +25,6 @@ setup(
     license='GPLv3+',
     author='Shubham Chaudhary',
     author_email='me@shubhamchaudhary.in',
-    url='https://github.com/shubhamchaudhary/logmein-windows',
+    url='https://github.com/DevelopFreedom/logmein-windows',
     long_description=long_description,
     install_requires=requires, **add_keywords)
